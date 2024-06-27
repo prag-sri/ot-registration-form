@@ -1,0 +1,13 @@
+#example {
+  font-family: 'Arial', sans-serif;
+  font-size: 14px;
+}
+
+#example thead th {
+  font-weight: bold;
+  background-color: #f2f2f2;
+}
+
+#example tbody td {
+  padding: 8px;
+}
